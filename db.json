@@ -1,0 +1,25 @@
+[
+    {
+        "ingredients": [
+            "pound of pizza dough",
+            "1/2 cup of tomato sauce",
+            "1/2 cup of shredded mozzarella cheese",
+            "1/4 cup of grated Parmesan cheese",
+            "1/4 cup of sliced pepperoni",
+            "1/4 cup of sliced mushrooms",
+            "1/4 cup of sliced black olives",
+            "1/4 cup of chopped green peppers"
+        ],
+        "instructions": [
+            "1. Preheat oven to 425 degrees F (220 degrees C).",
+            "2. Roll out pizza dough on a lightly floured surface to desired thickness. Place on a greased baking sheet.",
+            "3. Spread tomato sauce over the pizza dough.",
+            "4. Sprinkle mozzarella cheese, Parmesan cheese, pepperoni, mushrooms, black olives, and green peppers over the pizza.",
+            "5. Bake in preheated oven for 15 to 20 minutes, or until cheese is melted and crust is golden brown."
+        ],
+        "calories": "437",
+        "fat": "16.3g",
+        "protein": "16.3g",
+        "carbs": "51.3g"
+    }
+]
