@@ -1,5 +1,6 @@
-[
-    {
+{
+  "posts": [
+      {
         "ingredients": [
             "pound of pizza dough",
             "1/2 cup of tomato sauce",
@@ -22,4 +23,5 @@
         "protein": "16.3g",
         "carbs": "51.3g"
     }
-]
+  ]
+}
